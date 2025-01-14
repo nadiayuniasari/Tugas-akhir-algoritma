@@ -1,0 +1,64 @@
+# Menu Utama
+1. Tampilkan judul program
+2. Tampilkan menu utama:
+-     1. Isi Data
+-     1. Lihat Laporan
+-     1. Koreksi/Edit Data
+-     1. Hapus Data
+-     1. Selesai
+1. Baca pilihan menu
+2. Jalankan aksi sesuai pilihan
+
+# Isi Data
+1. Tampilkan judul "Isi Data"
+2. Baca nama customer
+3. Baca no STNK
+4. Tampilkan pilihan paket servis
+5. Baca pilihan paket servis
+6. Baca jumlah diskon
+7. Hitung total pembayaran
+8. Simpan data
+9. Tanyakan apakah ingin mengisi data lagi
+10. Ulangi jika ya
+
+# Lihat Laporan
+1. Tampilkan judul "Laporan Penjualan"
+2. Paginasi data (3 data per halaman)
+3. Tampilkan data:
+- Nama customer
+- No STNK
+- Paket servis
+- Harga
+- Diskon
+- Total pembayaran
+1. Tampilkan subtotal dan total seluruh halaman
+2. Tunggu input pengguna untuk halaman berikutnya
+
+# Koreksi/Edit Data
+1. Tampilkan judul "Koreksi/Edit Data"
+2. Baca nomor data yang akan diedit
+3. Cari data sesuai nomor
+4. Baca nama customer baru
+5. Baca no STNK baru
+6. Tampilkan pilihan paket servis
+7. Baca pilihan paket servis baru
+8. Baca jumlah diskon baru
+9. Hitung total pembayaran baru
+10. Simpan perubahan
+
+# Hapus Data
+1. Tampilkan judul "Hapus Data"
+2. Baca nomor data yang akan dihapus
+3. Cari data sesuai nomor
+4. Hapus data
+5. Geser data ke atas
+6. Nullkan data terakhir
+
+# Fungsi Tambahan
+1. Hitung subtotal harga
+2. Hitung subtotal diskon
+3. Hitung subtotal total pembayaran
+4. Tampilkan menu utama setelah melakukan aksi
+
+# Keluar Program
+1. Tampilkan pesan terima kasih
